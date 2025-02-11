@@ -17,7 +17,7 @@ To ensure scalability and ease of deployment, the application is containerized u
 ## 🛠️ How It Works
 
 1️⃣ **Upload an Image** – Users can upload an image of a potato leaf.  
-2️⃣ **Preprocessing** – The image is resized, converted to grayscale (if needed), and normalized.  
+2️⃣ **Preprocessing** – The image is resized, converted to grayscale, and normalized.  
 3️⃣ **Prediction** – The trained CNN model classifies the image into one of three categories: **Early Blight, Late Blight, or Healthy**.  
 4️⃣ **Output** – The predicted class is displayed along with the confidence score.  
 
